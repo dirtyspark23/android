@@ -63,7 +63,7 @@
   <project path="device/lge/p990" name="CyanogenMod/android_device_lge_p990" remote="github" />
   <project path="device/lge/p999" name="CyanogenMod/android_device_lge_p999" remote="github" />
   <project path="device/lge/star-common" name="CyanogenMod/android_device_lge_star-common" remote="github" />
-  <project path="device/lge/thunderg" name="CyanogenMod/android_device_lge_thunderg" remote="github" />
+  <project path="device/lge/thunderg" name="dirtyspark23/android_device_lge_thunderg" remote="github" />
   <project path="device/malata/smb-common" name="CyanogenMod/android_device_malata_smb-common" remote="github" />
   <project path="device/malata/smb_a1002" name="CyanogenMod/android_device_malata_smb_a1002" remote="github" />
   <project path="device/malata/smb_a1004" name="CyanogenMod/android_device_malata_smb_a1004" remote="github" />
@@ -74,6 +74,7 @@
   <project path="device/motorola/stingray" name="CyanogenMod/android_device_motorola_stingray" remote="github" />
   <project path="device/motorola/zeppelin" name="CyanogenMod/android_device_motorola_zeppelin" remote="github" />
   <project path="device/sample" name="device/sample" />
+  <project path="device/samsung/acemtd" name="dirtyspark23/android_device_samsung_acemtd" remote="github" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="github" />
   <project path="device/samsung/captivatemtd" name="CyanogenMod/android_device_samsung_captivatemtd" remote="github" />
   <project path="device/samsung/charge" name="CyanogenMod/android_device_samsung_charge" remote="github" />
@@ -267,7 +268,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
 
-  <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" />
+  <project path="vendor/cyanogen" name="dirtyspark23/android_vendor_cyanogen" remote="github" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" remote="github" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="refs/heads/master" />
@@ -276,6 +277,6 @@
   <project path="vendor/tmobile/themes/Cyanbread" name="themes-platform-vendor-tmobile-themes-Cyanbread" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="themes" revision="refs/heads/master" />
 
-  <project path="android" name="CyanogenMod/android" remote="github" />
+  <project path="android" name="dirtyspark23/android" remote="github" />
 
 </manifest>
